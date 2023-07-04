@@ -1,1 +1,1 @@
-# Web3_course
+# Web3 public course
